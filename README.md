@@ -1,8 +1,7 @@
-# React + Vite
+# Form with Validation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objective: Implement form handling and validation in React.
 
-Currently, two official plugins are available:
+Description: Build a simple sign-up form that includes fields like email, password, and confirm password. Add basic validation to check for valid email format and matching passwords.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feature Focus: Form handling and validation.
